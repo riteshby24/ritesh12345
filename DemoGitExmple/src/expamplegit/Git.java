@@ -6,5 +6,9 @@ public class Git {
 		System.out.println("Demo Github");
 
 	}
+	
+	public static void ritesh() {
+		System.out.println("next commit");
+	}
 
 }
