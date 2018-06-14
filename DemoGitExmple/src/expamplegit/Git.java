@@ -10,5 +10,9 @@ public class Git {
 	public static void ritesh() {
 		System.out.println("next commit");
 	}
+	
+	public static void ritesh2() {
+		System.out.println("Last commit");
+	}
 
 }
